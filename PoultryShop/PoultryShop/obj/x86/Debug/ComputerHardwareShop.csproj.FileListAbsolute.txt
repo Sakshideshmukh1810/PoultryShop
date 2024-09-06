@@ -1,0 +1,11 @@
+C:\Users\star\Desktop\CS\ComputerHardwareShop\ComputerHardwareShop\bin\Debug\ComputerHardwareShop.exe
+C:\Users\star\Desktop\CS\ComputerHardwareShop\ComputerHardwareShop\bin\Debug\ComputerHardwareShop.pdb
+C:\Users\star\Desktop\CS\ComputerHardwareShop\ComputerHardwareShop\obj\x86\Debug\ComputerHardwareShop.LoginForm.resources
+C:\Users\star\Desktop\CS\ComputerHardwareShop\ComputerHardwareShop\obj\x86\Debug\ComputerHardwareShop.Properties.Resources.resources
+C:\Users\star\Desktop\CS\ComputerHardwareShop\ComputerHardwareShop\obj\x86\Debug\ComputerHardwareShop.csproj.GenerateResource.Cache
+C:\Users\star\Desktop\CS\ComputerHardwareShop\ComputerHardwareShop\obj\x86\Debug\ComputerHardwareShop.exe
+C:\Users\star\Desktop\CS\ComputerHardwareShop\ComputerHardwareShop\obj\x86\Debug\ComputerHardwareShop.pdb
+C:\Users\star\Desktop\CS\ComputerHardwareShop\ComputerHardwareShop\obj\x86\Debug\ComputerHardwareShop.MainForm.resources
+C:\Users\star\Desktop\CS\ComputerHardwareShop\ComputerHardwareShop\obj\x86\Debug\ComputerHardwareShop.CategoryForm.resources
+C:\Users\star\Desktop\CS\ComputerHardwareShop\ComputerHardwareShop\obj\x86\Debug\ComputerHardwareShop.csprojResolveAssemblyReference.cache
+C:\Users\star\Desktop\CS\ComputerHardwareShop\ComputerHardwareShop\obj\x86\Debug\ComputerHardwareShop.CategoryForm2.resources
