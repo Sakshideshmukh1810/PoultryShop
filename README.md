@@ -15,7 +15,22 @@
 
   Admin Control
 
-  ScreenShots
+  
 
 # About the Project :
  
+ Poultry Shop application designed for Poultry shop / chicken Shop owner to buy, sell, and manage data of chicken. This project was developed as part of my Final Year Project.
+
+# Features :
+  1. Product Management: Add, update, and delete poultry products (e.g., eggs, chicken, etc.).
+  2. Inventory Tracking: Monitor stock levels and receive notifications for low inventory.
+  3. Order Processing: Handle customer orders, including real-time stock availability checks.
+  4. Sales Management: Record sales transactions and generate sales receipts. 
+  5. Customer Management: Store and manage customer details for quick access and order history.
+  6. Reporting: Generate reports for sales, inventory levels, and order summaries.
+
+
+# BUILT WITH:
+  .Net
+  
+  mssql
