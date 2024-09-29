@@ -34,3 +34,13 @@
   .Net
   
   mssql
+# PREREQUISITIES:
+   Microsoft Visual Studio
+   
+   SAP Tool
+
+
+# ADMIN CONTROLS:
+  username: admin
+  
+  password: admin
